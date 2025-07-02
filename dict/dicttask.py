@@ -125,7 +125,6 @@
 # r=o.values()
 # print(sum(r))
 
-
 # ##20) Filter dictionary to keep items with values above a 50.
 # o = {'a': 51, 'b': 93, 'c': 2}
 # r=o.values()
@@ -133,13 +132,7 @@
 #     if i>=50:
 #         print(i)
 
-# height = int(input())0
-# width = int(input())
-# for _ in range(height):
-#     print(width*"0")
-a=int(input("num"))
-b=int(input("num"))
-def sum(a,b):
-    c=a+b
-    print(c)
-sum(a,b)
+height = int(input())
+width = int(input())
+for _ in range(height):
+    print(width*"0")

@@ -623,6 +623,7 @@
 # print(u)
 # print(type(u))
 # print(u[1])
+
 # p=list(u)
 # p[-1]="banana"
 # print(tuple(p))
@@ -725,6 +726,7 @@
 # for i in o:
 #     if i in ["a","e","i","o","u","A","E","I","O","U"]:
 #         print(i)
+
 
 # ##intersection of two sets
 # y={"one","two"}
