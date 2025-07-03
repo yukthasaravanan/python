@@ -33,11 +33,14 @@
 # if c>8:
 # print(c)
 
-# ##import error
-# import mathh
-# v=open("neewfile.txt","w")
+# # ##filenot found error 
+# v=open("neeewfile.txt","r")
 
-# ##filenot found error 
-v=open("neeewfile.txt","r")
+
+# import error
+import mathh
+v=open("neewfile.txt","w")
+
+
 
 
