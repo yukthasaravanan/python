@@ -28,10 +28,12 @@
 # x=10/0
 # print(x)
 
+
 # ##indentation error
 # c=7
 # if c>8:
 # print(c)
+
 
 # # ##filenot found error 
 # v=open("neeewfile.txt","r")
@@ -40,6 +42,7 @@
 # import error
 import mathh
 v=open("neewfile.txt","w")
+
 
 
 
